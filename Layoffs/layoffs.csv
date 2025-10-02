@@ -1,4 +1,11 @@
 company,location,total_laid_off,date,percentage_laid_off,industry,source,stage,funds_raised,country,date_added
+GamesKraft,"Bengaluru,Non-U.S.",120.0,9/18/2025,,Consumer,https://inc42.com/buzz/now-gameskraft-lays-off-120-employees/,Unknown,,India,9/25/2025
+ZipRecruiter,"Tel Aviv,Non-U.S.",80.0,9/16/2025,,Recruiting,https://www.calcalistech.com/ctechnews/article/pwjukv20s,Post-IPO,$769,United States,9/16/2025
+Fiverr,"Tel Aviv,Non-U.S.",250.0,9/15/2025,30%,Other,https://www.wsj.com/business/fiverr-to-cut-about-250-jobs-in-refocusing-effort-reiterates-guidance-8f15ee4b,Post-IPO,$111,Israel,9/16/2025
+Hike,"New Delhi,Non-U.S.",,9/13/2025,100%,Consumer,https://techcrunch.com/2025/09/13/hike-once-a-unicorn-shuts-down-as-india-cracks-down-on-real-money-gaming/,Unknown,$261,India,9/15/2025
+xAI,SF Bay Area,500.0,9/12/2025,,AI,https://www.businessinsider.com/elon-musk-xai-layoffs-data-annotators-2025-9,Unknown,$22700,United States,9/15/2025
+Zupee,"New Delhi,Non-U.S.",170.0,9/11/2025,30%,Consumer,https://yourstory.com/2025/09/zupee-employees-real-money-gaming-ban-layoffs,Series B,$121,India,9/15/2025
+Atlassian,"Sydney,Non-U.S.",200.0,9/10/2025,,Other,https://www.ziptone.nl/en/nieuws/atlassian-schrapt-200-customerservicebanen-in-nederland-en-frankrijk/,Post-IPO,$210,Australia,9/18/2025
 Microsoft,Seattle,42.0,9/8/2025,,Other,https://www.bizjournals.com/seattle/news/2025/09/08/microsoft-lays-off-dozens-more-employees-in-wa.html,Post-IPO,$1,United States,9/8/2025
 Rivian,Los Angeles,200.0,9/5/2025,1%,Transportation,https://www.latimes.com/business/story/2025-09-08/rivian-lays-off-employees-new-suv-tax-credits,Post-IPO,$10700,United States,9/8/2025
 Scope3,New York City,,9/5/2025,,Energy,https://www.adweek.com/media/scope3-lays-off-sales-staff-ai-agentic-advertising-restructuring/,Series B,$45,United States,9/8/2025
