@@ -7,7 +7,7 @@ The SQL queries utilized to load and organize the data can be found [here](https
 
 The SQL queries utilized to clean, perform quality checks, and prepare data can be found [here](https://github.com/hna778/SQL-Porfoio/blob/main/Layoffs/layoffs_DataCleaning.sql).
 
-Target SQL queries inspecting key metrics can be found [here](https://github.com/hna778/SQL-Porfoio/blob/main/Layoffs/layofss_EDA.sql).
+Target SQL queries exploring key insights can be found [here](https://github.com/hna778/SQL-Porfoio/blob/main/Layoffs/layofss_EDA.sql).
 
 ## Data Structure Overview
 The Layoffs dataset comprises 11 columns, including the details of companies, industries, and the scales of workforce reductions across the global tech sector, with a total row count of 2,828 records.
