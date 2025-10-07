@@ -14,4 +14,4 @@ Target SQL queries exploring key insights can be found [here](https://github.com
 ## Data Structure Overview
 The COVID-19 dataset comprises 61 columns and 530,291 records. Each record represents a unique country-date observation, allowing for detailed temporal and geographical analysis of key COVID-19 metrics. For the purpose of this analysis, the focus was narrowed to asubset of 13 relevant columns that provide an essential information for understanding infection trends, confirmed deaths and vaccination progress across regions. 
 
-![Dashboard[(https://github.com/hna778/SQL-Porfoio/blob/main/Covid19/covid19_Visualization.png)
+![Dashboard](https://github.com/hna778/SQL-Porfoio/blob/main/Covid19/covid19_Visualization.png)
