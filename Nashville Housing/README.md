@@ -11,15 +11,15 @@ Over the seven-year period, active inventory levels rose by [A%] compared to ear
 However, despite these gains, home-selling activity began to decelerate in the later years of the dataset, indicating a potential shift toward market stabilization or early signs of saturation
 
 ### Insights Deep-Dive
-##### Sales Trends and Growth Rates
+#### Sales Trends and Growth Rates
 
-##### Key Products Performances
+#### Key Products Performances
 
-##### Distribution of Property Prices Across different regions and Property Types
+#### Distribution of Property Prices Across different regions and Property Types
 
-##### Influence of Square Footage and Year Built on Sale Prices.
+#### Influence of Square Footage and Year Built on Sale Prices.
 
-##### Inventory exploration
+#### Inventory exploration
 
 
 ### Recommendation
