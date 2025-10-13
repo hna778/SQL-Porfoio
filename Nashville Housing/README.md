@@ -6,7 +6,7 @@ This report presents comprehensive analysis of real estate transactions across T
 
 ### Executive Summary
 
-The [dataset](https://www.kaggle.com/datasets/swsw1717/nashville-housing-sql-project?select=Nashville+Housing.csv.) covers property transactions recorded between Jan 02, 2013 and Dec 13, 2019, capturing a period of significant growth and market activity in the region. 
+The [dataset](https://www.kaggle.com/datasets/swsw1717/nashville-housing-sql-project?select=Nashville+Housing.csv.) covers 56K property transactions recorded between Jan 02, 2013 and Dec 13, 2019, capturing a period of significant growth and market activity in the region. During this period, the annual sale values keep increase ..%, in which Residential Condo and Single Family contribute ... % of sale transactions. 
 
 The primary goal of this analysis is to understand the distribution of property prices and uncover the market trends that reflect inventory levels, pricing dynamics, and the impact of property charateristics. Specifically, the study investigates: 
 - Examine the distribution of property prices across different regions and property types.
