@@ -19,6 +19,15 @@ The [dataset](https://www.kaggle.com/datasets/swsw1717/nashville-housing-sql-pro
 
 #### Inventory exploration
 
+
+### Recommendation
+
+
+### Clarifying Questions, Assumptions, and Caveats
+
+
+-----
+
 The SQL queries utilized to load and organize the data can be found [here](https://github.com/hna778/SQL-Porfoio/blob/main/Nashville%20Housing/housing_Loading.sql).
 
 The SQL queries utilized to clean, perform quality checks, and prepare data can be found [here](https://github.com/hna778/SQL-Porfoio/tree/main/Nashville%20Housing).
