@@ -43,3 +43,5 @@ Target SQL queries exploring key insights can be found here.
 https://www.kaggle.com/code/lucyallan/sql-nashville-housing
 
 https://www.kaggle.com/code/pablozanotti/nashville-housing-data-cleaning-in-sql
+
+https://www.nashvillesmls.com/blog/nashville-housing-market-update.html
