@@ -2,7 +2,7 @@
 
 ### Project Background
 
-Layoffs have become a major topic of discussion worldwide, driven by economic uncertainty and the rapid adoption of artificial intelligence. The [dataset](https://www.kaggle.com/datasets/swaptr/layoffs-2022) compiles information on tech layoffs from multiple public sources. The data covers events from **March 11, 2020** - the date COVID-19 was officially declared a pandemic - **up to the present**. In this project, the raw dataset was cleaned, processed, and analyzed to uncover key trends and insights.
+Layoffs have become a major topic of discussion worldwide, driven by economic uncertainty and the rapid adoption of artificial intelligence. The [dataset](https://www.kaggle.com/datasets/swaptr/layoffs-2022) compiles information on tech layoffs from multiple public sources. The data covers events from **March 11, 2020** - the date COVID-19 was officially declared a pandemic - **up to the present**. In this project, the raw dataset was cleaned, processed, and analyzed to uncover key trends and insights preparing for the new undergrads as well as people who wish to switch the career in this tought market. 
 
 ### Executive Summary
 
