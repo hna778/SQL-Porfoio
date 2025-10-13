@@ -6,7 +6,9 @@ This report presents comprehensive analysis of real estate transactions across T
 
 ### Executive Summary
 
-The [dataset](https://www.kaggle.com/datasets/swsw1717/nashville-housing-sql-project?select=Nashville+Housing.csv.) covers 56K property transactions recorded between Jan 02, 2013 and Dec 13, 2019, capturing a period of significant growth and market activity in the region. During this period, the annual sale values keep increase ..%, in which Nashville contributes .. %. Among property types in Nashville, Residential Condo and Single Family account for ... % of sale transactions. Based on the number of transactions throughout the course of 7 years, active inventory jumps ..% compared to previous years and vacant homes also increases. On the other hand, the home selling activity shows the slow down in the recent years. 
+The [dataset](https://www.kaggle.com/datasets/swsw1717/nashville-housing-sql-project?select=Nashville+Housing.csv.) encompasses approximately 56,000 property transactions recorded between January 2, 2013, and December 13, 2019, reflecting a period of sustained growth and heightened real estate activity across Tennessee. During this timeframe, annual sales values increased by [X%], with Nashville contributing approximately [Y%] of total transactions — underscoring its dominant role in statewide housing dynamics. Within Nashville, residential condominiums and single-family homes represented the largest market share, accounting for [Z%] of total property sales.
+Over the seven-year period, active inventory levels rose by [A%] compared to earlier years, driven largely by an uptick in vacant home listings, suggesting strong development and supply-side activity.
+However, despite these gains, home-selling activity began to decelerate in the later years of the dataset, indicating a potential shift toward market stabilization or early signs of saturation
 
 ### Insights Deep-Dive
 #### Sales Trends and Growth Rates
