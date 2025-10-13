@@ -11,6 +11,19 @@ The [dataset](https://www.kaggle.com/datasets/swaptr/layoffs-2022) compiles info
 
 ### Insights Deep-Dives
 
+#### 10 Countries Having Highest Layoffs
+
+#### 10 Industries Having Highest Layoffs
+
+#### 10 Companies Having Highest Layoffs
+
+#### Regions That Having Layoffs in the U.S.
+
+#### Monthly Layoffs
+
+#### Yearly Layoffs
+
+
 
 ### Recommendation
 
