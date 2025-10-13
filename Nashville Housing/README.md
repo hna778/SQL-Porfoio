@@ -1,6 +1,6 @@
 ## Project Background
 
-The real estates in Tennesee has been noticed to be active in the last decade, with high amount of sale transactions reported, especially Nashville city. This [dataset]([url](https://www.kaggle.com/datasets/swsw1717/nashville-housing-sql-project?select=Nashville+Housing.csv.) was collected from Jan 02, 2013 to Dec 13, 2019 in Tennessee. 
+The real estates in Tennesee has been noticed to be active in the last decade, with high amount of sale transactions reported, especially Nashville city. This [dataset](https://www.kaggle.com/datasets/swsw1717/nashville-housing-sql-project?select=Nashville+Housing.csv.) was collected from Jan 02, 2013 to Dec 13, 2019 in Tennessee. 
 
 
 
