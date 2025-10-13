@@ -1,6 +1,12 @@
-## Project Background
+## Nashville Housing Market (2013-2019)
 
-This reports presents comprehensive analysis of real estate transactions across Tennesee, with a particular focus on the dynamic housing market of Nashville. The [dataset](https://www.kaggle.com/datasets/swsw1717/nashville-housing-sql-project?select=Nashville+Housing.csv.) covers property transactions recorded between Jan 02, 2013 and Dec 13, 2019, capturing a period of significant growth and market activity in the region. 
+### Project Background
+
+This reports presents comprehensive analysis of real estate transactions across Tennesee, with a particular focus on the dynamic housing market of Nashville. The primary goal of this analysis is to understand the distribution of property prices and uncover the market trends that reflect inventory levels, pricing dynamics, and the impact of property charateristics.
+
+### Executive Summary
+
+The [dataset](https://www.kaggle.com/datasets/swsw1717/nashville-housing-sql-project?select=Nashville+Housing.csv.) covers property transactions recorded between Jan 02, 2013 and Dec 13, 2019, capturing a period of significant growth and market activity in the region. 
 
 The primary goal of this analysis is to understand the distribution of property prices and uncover the market trends that reflect inventory levels, pricing dynamics, and the impact of property charateristics. Specifically, the study investigates: 
 - Examine the distribution of property prices across different regions and property types.
