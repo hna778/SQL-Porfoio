@@ -28,7 +28,7 @@ However, despite these gains, home-selling activity began to decelerate in the l
 ### Clarifying Questions, Assumptions, and Caveats
 
 
-___
+###
 
 The SQL queries utilized to load and organize the data can be found [here](https://github.com/hna778/SQL-Porfoio/blob/main/Nashville%20Housing/housing_Loading.sql).
 
