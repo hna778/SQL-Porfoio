@@ -1,8 +1,12 @@
 ## Project Background
 
-The real estates in Tennesee has been noticed to be active in the last decade, with high amount of sale transactions reported, especially Nashville city. This [dataset](https://www.kaggle.com/datasets/swsw1717/nashville-housing-sql-project?select=Nashville+Housing.csv.) was collected from Jan 02, 2013 to Dec 13, 2019 in Tennessee. In this project, the raw dataset was cleaned, processed, and analyzed to uncover key trends and insights.
+This reports presents comprehensive analysis of real estate transactions across Tennesee, with a particular focus on the dynamic housing market of Nashville. The [dataset](https://www.kaggle.com/datasets/swsw1717/nashville-housing-sql-project?select=Nashville+Housing.csv.) covers property transactions recorded between Jan 02, 2013 and Dec 13, 2019, capturing a period of significant growth and market activity in the region. 
 
-The main goal of this project is to understand the distribution of price range of the properties as well to uncover the sale trends whether there is high inventory in the market (home sales as vacant), the home price is climbing up. Would the home size, or year built impact the sale price
+The primary goal of this analysis is to understand the distribution of property prices and uncover the market trends that reflect inventory levels, pricing dynamics, and the impact of property charateristics. Specifically, the study investigates: 
+- Examine the distribution of property prices across different regions and property types.
+- Identify market trends reflecting housing inventory dynamics, including the proportion of vacant property sales.
+- Assess whether home prices exhibited upward trends over the study period.
+- Evaluate how property characteristics, such as square footage and year built, influence sale prices.
 
 The SQL queries utilized to load and organize the data can be found [here](https://github.com/hna778/SQL-Porfoio/blob/main/Nashville%20Housing/housing_Loading.sql).
 
