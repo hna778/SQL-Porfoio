@@ -1,4 +1,4 @@
-## Nashville Housing Market (2013-2019)
+## Nashville Housing Market 
 
 ### Project Background
 
