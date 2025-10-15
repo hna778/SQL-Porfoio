@@ -316,10 +316,14 @@ FROM nashville_staging;
 
 -- EDA
 -- Sales Volumes by Year
-SELECT 	PropertyCitySplit AS city,
-		COUNT(*) AS sales_units
+SELECT 	YEAR(SaleDate) AS yr,
+		COUNT(*) AS sales_units,
+        SUM(SalePrice) AS sales_values
 FROM nashville_staging
-GROUP BY city;
+GROUP BY yr
+ORDER BY yr DESC;
+
+
 
 -- City with the Most Sales Volumes
 WITH base AS(
@@ -334,7 +338,30 @@ SELECT 	city,
         ROUND(sales_units / SUM(sales_units) OVER() * 100, 2) AS pct_sales_units
 FROM base
 GROUP BY city
-ORDER BY sales_units;
+ORDER BY sales_units DESC;
+
+
+
+-- Pecentage of Sale Volumes Contributed by Cities
+WITH base AS (
+	SELECT 	YEAR(SaleDate) AS yr,
+			TRIM(PropertyCitySplit) AS city,
+			COUNT(*) AS sales_units
+	FROM nashville_staging
+    WHERE 	SaleDate IS NOT NULL
+		AND YEAR(SaleDate) BETWEEN 2013 AND 2016
+	GROUP BY YEAR(SaleDate), TRIM(PropertyCitySplit)
+)
+SELECT 	yr,
+		city,
+        sales_units AS city_total,
+		SUM(sales_units) OVER (PARTITION BY yr) AS year_total,
+        ROUND(100 * sales_units / NULLIF(SUM(sales_units) OVER (PARTITION BY yr), 0), 2) AS pct_of_year
+FROM base
+GROUP BY yr, city
+ORDER BY pct_of_year DESC, yr DESC;
+
+
 
 -- Sales Trends & Growth Rates in Nashville
 	-- Yearly
@@ -389,56 +416,10 @@ SELECT 	`month`,
 FROM monthly
 ORDER BY `month`;
     
--- City with the Most Property Sales
-SELECT 	PropertyCitySplit AS city,
-		COUNT(*) AS sale_count
-FROM nashville_staging
-GROUP BY city
-ORDER BY sale_count DESC;
-
-
--- Pecentage of Sale Values Contributed by Cities
-WITH base AS (
-	SELECT 	YEAR(SaleDate) AS yr,
-			TRIM(PropertyCitySplit) AS city,
-			SalePrice AS price
-	FROM nashville_staging
-    WHERE 	SaleDate IS NOT NULL
-		AND SalePrice IS NOT NULL
-		AND YEAR(SaleDate) BETWEEN 2013 AND 2016
-)
-SELECT 	yr,
-		city,
-        SUM(price) AS city_total,
-        SUM(SUM(price)) OVER (PARTITION BY yr) AS year_total,
-        ROUND(100 * SUM(price) / NULLIF(SUM(SUM(price)) OVER (PARTITION BY yr), 0), 2) AS pct_of_year
-FROM base
-GROUP BY yr, city
-ORDER BY city_total DESC, yr DESC;
-		
-		
--- Pecentage of Sale Transactions Contributed by Cities
-WITH base AS (
-	SELECT 	YEAR(SaleDate) AS yr,
-			TRIM(PropertyCitySplit) AS city,
-			COUNT(*) AS city_sales
-	FROM nashville_staging
-    WHERE 	SaleDate IS NOT NULL
-		AND YEAR(SaleDate) BETWEEN 2013 AND 2016
-	GROUP BY yr, city
-)
-SELECT 	yr,
-		city,
-		city_sales,
-        SUM(city_sales) OVER (PARTITION BY yr) AS total_sales,
-        ROUND(100 * city_sales / NULLIF(SUM(city_sales) OVER (PARTITION BY yr), 0), 2) AS pct_of_year
-FROM base
-GROUP BY yr, city
-ORDER BY pct_of_year DESC, yr, city;
 
 
 -- How many properties were sold as vacant?
--- yearly inventory
+-- yearly new construction
 WITH base AS (
 	SELECT
 		YEAR(SaleDate) AS yr,
@@ -458,13 +439,31 @@ FROM base
 GROUP BY yr
 ORDER BY yr;
 
+WITH base AS (
+	SELECT
+		YEAR(SaleDate) AS yr,
+        LandUse,
+        COUNT(*) AS total_tx,
+        SUM(TRIM(SoldAsVacant) = 'YES')  AS total_tx_yes
+	FROM nashville_staging
+    WHERE YEAR(SaleDate) BETWEEN 2013 AND 2016
+		AND SaleDate IS NOT NULL
+	GROUP BY YEAR(SaleDate), LandUse
+)
+SELECT 	yr,
+		SUM(total_tx) AS total_tx_rows,
+        SUM(total_tx_yes) AS total_tx_rows_yes,
+		ROUND(100 * SUM(total_tx_yes) / NULLIF(SUM(total_tx),0), 2) AS pct
+FROM base
+GROUP BY yr
+ORDER BY yr;
 
--- monthly inventory
+-- monthly construction
 WITH monthly AS (
   SELECT
     DATE_FORMAT(SaleDate, '%Y-%m') AS ym,
     COUNT(*) AS sales_cnt,
-    SUM(UPPER(TRIM(SoldAsVacant)) IN ('YES','Y','1','TRUE')) AS vacant_cnt
+    SUM(TRIM(SoldAsVacant) = 'YES') AS vacant_cnt
   FROM nashville_staging
   WHERE SaleDate IS NOT NULL
   GROUP BY ym
@@ -725,7 +724,7 @@ LEFT JOIN med m USING (city, landuse)
 ORDER BY s.total_sales DESC;
 
 
--- Is there a trend in sale prices over time?
+-- Is there a trend in sale prices of these products over time?
 
 SELECT
   DATE_FORMAT(SaleDate, '%Y-%m') AS month,
