@@ -2,11 +2,13 @@
 
 ### Project Background
 
-Layoffs have become a major topic of discussion worldwide, driven by economic uncertainty and the rapid adoption of artificial intelligence.  The main goal is to understand the post COVID-19 labor market and identify which industries and companies have been most affected. Through exploratory data analysis, this project aims to highlight the patterns behind workforce reductions and provide a data-driven view of how the tech landscape continues to evolve.
+Layoffs have become a major topic of discussion worldwide, driven by economic uncertainty and the rapid adoption of artificial intelligence.  The main goal is to understand the post COVID-19 labor market and identify which industries and companies have been most affected. Through exploratory data analysis, this project aims to highlight the patterns behind the U.S. workforce reductions and provide a data-driven view of how the tech landscape continues to evolve.
 
 ### Executive Summary
 
-The [dataset](https://www.kaggle.com/datasets/swaptr/layoffs-2022) compiles information on tech layoffs from multiple public sources, and including the details of companies, industries, and the scales of workforce reductions across the global tech sector, with a total row count of 2,828 records.  The data covers events from **March 11, 2020** - the date COVID-19 was officially declared a pandemic - **up to the present**. So far, X number of employees have been laid off, increase roughly Y % every year. US took a big hit with Z% in the total layoff while India is the main outsource account for T% number of lay offs. Hardward tech layoff is the most impacted ... %, following by .... . The pace of layoff is slowing down but still affecting all the segment due to the unpredicted economic scenario. 
+The [dataset](https://www.kaggle.com/datasets/swaptr/layoffs-2022) consolidates publicly available data on workforce reductions across the global tech sector.  The dataset includes 2,8282 records spanning from **March 11, 2020** - the date COVID-19 was officially declared a pandemic - **up to the present**. Since 2022, the technology industry has experienced significant restructuring, with 529,635 employees laid off in the US. Layoffs surged in 2023, reaching their peak with 178,745 reported job cuts, following 108,546 in 2022. The San Francisco Bay Area (Silicon Valley) absorbed the greatest impact, accounting for 45.42% of total U.S. layoffs, followed by Seattle at 13.67%. By industry, hardware technology led the reductions with 15.85%, trailed by the consumer sector at 12.24%.
+
+While the pace of layoffs has begun to ease, the effects remain widespread across nearly all segments of the tech ecosystem as companies continue to adjust to shifting market conditions and economic uncertainty.
 
 
 ### Insights Deep-Dives
