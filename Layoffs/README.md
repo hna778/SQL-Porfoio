@@ -12,20 +12,18 @@ While the pace of layoffs has begun to ease, the effects remain widespread acros
 
 
 ### Insights Deep-Dives
-<img width="1319" height="769" alt="Layoffs Dashboard" src="https://github.com/user-attachments/assets/5a224104-503b-4697-b94d-f58e01c0c1f9" />
+#
+#### Layoffs Trends
+- Tech layoffs reached a peak in 2023 with 178.000 employees.
+- Tech layoffs started in 2020, after the Covid-19 pandemic announced but declined rapidly by 80% in 2021 with 9,000 laid off employees reported.
+- From Sep 2022 to Mar 2023, this was the most period of layoffs wave after the post pandemic, due to restructure of system and balance of economy. 
+<img width="838" height="286" alt="Screenshot 2025-10-26 at 8 42 13 PM" src="https://github.com/user-attachments/assets/3b9d77e8-8ac7-48a2-aafb-651adcf33ef9" />
 
 
-#### 10 Countries Having Highest Layoffs
 
-#### 10 Industries Having Highest Layoffs
 
-#### 10 Companies Having Highest Layoffs
 
-#### Regions That Having Layoffs in the U.S.
 
-#### Monthly Layoffs
-
-#### Yearly Layoffs
 
 
 
