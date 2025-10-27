@@ -34,11 +34,11 @@ While the pace of layoffs has begun to ease, the effects remain widespread acros
 - Encourage workforce reskilling in AI, data, and cloud fields to reduce layoff vulnerability.
 - Diversify office hubs beyond SF Bay Area and Seattle to limit regional exposure.
 - Build early-warning indicators for layoff surges in consumer and hardware sectors.
-- Prepare post-2025 recovery scenarios considering AI expansion, interest rates, and tech spending rebound.
+- Post-2025 scenarios should consider that rapid AI expansion may continue to suppress traditional tech hiring through automation, while lower interest rates could stimulate renewed investment and rehiring as technology spending rebounds.
 
 ### Clarifying Questions, Assumptions, and Caveats
 - Data includes reported layoffs only; private or undisclosed cases may be excluded.
-- City totals may overlap across metro areas (e.g., SF Bay area vs. San Jose).
+- City totals may overlap across metro areas (e.g., SF Bay Area vs. San Jose).
 - Some firms span multiple industries; classification reflects their primary segment.
 - External factors like inflation, interest rates, and supply chain shifts influence layoffs but aren’t modeled.
 - Findings are descriptive, not predictive — they reflect historical trends, not future forecasts.
