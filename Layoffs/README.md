@@ -21,7 +21,7 @@ While the pace of layoffs has begun to ease, the effects remain widespread acros
 
 ### Impacted Industries and Companies
 - When the Covid-19 announced in 2020, layoffs surged in Transportation and Retail sectors as lockdowns and social distancing halted mobility and in-person commerce.
-- The Real Estate and Construction industries were hit hardest due to a slowdown in new projects and reduced housing demand in 2021.
+- In 2021, The Real Estate and Construction industries were hit hardest due to a slowdown in new projects and reduced housing demand.
 - During 2022-2023: After rapid digital growth during the pandemic, the market correction led to mass layoffs at major firms like Meta and Amazon in late 2022 through early 2023, primarily within Consumer and Retail industries.
 - In 2024-2025, as the AI revolution gained traction and the economy stabilized, demand for tech hiring slowed. This shift resulted in large-scale layoffs in Hardware and Transportation sectors — especially at Intel, Tesla, and Cisco.
 - In the first 9 months of 2025, Intel, Microsoft, and Salesforce led the hardware-related layoffs, concentrated in Silicon Valley, Seattle, and Sacramento.
