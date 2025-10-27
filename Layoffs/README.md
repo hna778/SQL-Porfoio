@@ -1,4 +1,4 @@
-## Tech Layoffs
+## Tech Layoffs in the U.S. (Mar 11, 2020 - Sep 16, 2025)
 
 ### Project Background
 
