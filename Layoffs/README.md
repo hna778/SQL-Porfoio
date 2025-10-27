@@ -12,26 +12,35 @@ While the pace of layoffs has begun to ease, the effects remain widespread acros
 
 
 ### Insights Deep-Dives
-#
 #### Layoffs Trends
-- Tech layoffs reached a peak in 2023 with 178.000 employees.
-- Tech layoffs started in 2020, after the Covid-19 pandemic announced but declined rapidly by 80% in 2021 with 9,000 laid off employees reported.
-- From Sep 2022 to Mar 2023, this was the most period of layoffs wave after the post pandemic, due to restructure of system and balance of economy. 
+- 2023 recorded the highest layoffs, with ~178K employees affected across U.S. companies.
+- Layoffs began in 2020 during the COVID-19 outbreak, but dropped sharply by 80% in 2021 as companies ramped up hiring to support the surge in remote work, digital services, and online commerce.
+- A second major wave occurred between Sep 2022 – Mar 2023, driven by post-pandemic restructuring and economic adjustments.
+- After 2023, layoff volumes declined steadily through 2024–2025, signaling a period of market correction and operational balance.
 <img width="875" height="296" alt="Screenshot 2025-10-26 at 8 54 15 PM" src="https://github.com/user-attachments/assets/0f50a2c8-cc0c-4939-8608-42b98a4effb5" />
 
-
-
-
-
-
-
-
-
+### Impacted Industries and Companies
+Pandemic Impact (2020):
+- When the Covid-19 announced in 2020, layoffs surged in Transportation and Retail sectors as lockdowns and social distancing halted mobility and in-person commerce.
+- The Real Estate and Construction industries were hit hardest due to a slowdown in new projects and reduced housing demand in 2021.
+- During 2022-2023: After rapid digital growth during the pandemic, the market correction led to mass layoffs at major firms like Meta and Amazon in late 2022 through early 2023, primarily within Consumer and Retail industries.
+- In 2024-2025, as the AI revolution gained traction and the economy stabilized, demand for tech hiring slowed. This shift resulted in large-scale layoffs in Hardware and Transportation sectors — especially at Intel, Tesla, and Cisco.
+- In the first 9 months of 2025, Intel, Microsoft, and Salesforce led the hardware-related layoffs, concentrated in Silicon Valley, Seattle, and Sacramento.
+- Over the five years following the pandemic, Hardware and Consumer industries accounted for the majority of layoffs, dominated by tech giants headquartered in the SF Bay Area and Seattle.
+  
 ### Recommendation
-
+- Track AI and hardware hiring trends as automation and chip demand continue to reshape tech roles.
+- Encourage workforce reskilling in AI, data, and cloud fields to reduce layoff vulnerability.
+- Diversify office hubs beyond SF Bay Area and Seattle to limit regional exposure.
+- Build early-warning indicators for layoff surges in consumer and hardware sectors.
+- Prepare post-2025 recovery scenarios considering AI expansion, interest rates, and tech spending rebound.
 
 ### Clarifying Questions, Assumptions, and Caveats
-
+- Data includes reported layoffs only; private or undisclosed cases may be excluded.
+- City totals may overlap across metro areas (e.g., SF Bay vs. San Jose).
+- Some firms span multiple industries; classification reflects their primary segment.
+- External factors like inflation, interest rates, and supply chain shifts influence layoffs but aren’t modeled.
+- Findings are descriptive, not predictive — they reflect historical trends, not future forecasts.
 
 #
 
