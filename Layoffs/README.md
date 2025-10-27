@@ -20,7 +20,6 @@ While the pace of layoffs has begun to ease, the effects remain widespread acros
 <img width="875" height="296" alt="Screenshot 2025-10-26 at 8 54 15 PM" src="https://github.com/user-attachments/assets/0f50a2c8-cc0c-4939-8608-42b98a4effb5" />
 
 ### Impacted Industries and Companies
-Pandemic Impact (2020):
 - When the Covid-19 announced in 2020, layoffs surged in Transportation and Retail sectors as lockdowns and social distancing halted mobility and in-person commerce.
 - The Real Estate and Construction industries were hit hardest due to a slowdown in new projects and reduced housing demand in 2021.
 - During 2022-2023: After rapid digital growth during the pandemic, the market correction led to mass layoffs at major firms like Meta and Amazon in late 2022 through early 2023, primarily within Consumer and Retail industries.
