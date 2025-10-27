@@ -51,4 +51,4 @@ The SQL queries utilized to clean, perform quality checks, and prepare data can 
 
 Target SQL queries exploring key insights can be found [here](https://github.com/hna778/SQL-Porfoio/blob/main/Layoffs/layofss_targetQuestions.sql).
 
-Tableau Dashboard can be found [here]([url](https://public.tableau.com/views/Book2_17615238901260/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+Tableau Dashboard can be found [here](https://public.tableau.com/views/Book2_17615238901260/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
