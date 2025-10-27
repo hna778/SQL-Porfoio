@@ -26,7 +26,9 @@ While the pace of layoffs has begun to ease, the effects remain widespread acros
 - In 2024-2025, as the AI revolution gained traction and the economy stabilized, demand for tech hiring slowed. This shift resulted in large-scale layoffs in Hardware and Transportation sectors — especially at Intel, Tesla, and Cisco.
 - In the first 9 months of 2025, Intel, Microsoft, and Salesforce led the hardware-related layoffs, concentrated in Silicon Valley, Seattle, and Sacramento.
 - Over the five years following the pandemic, Hardware and Consumer industries accounted for the majority of layoffs, dominated by tech giants headquartered in the SF Bay Area and Seattle.
-  
+<img width="1319" height="769" alt="Layoffs Dashboard" src="https://github.com/user-attachments/assets/af46a5c8-29d3-4148-bc31-fc9a95987541" />
+
+
 ### Recommendation
 - Track AI and hardware hiring trends as automation and chip demand continue to reshape tech roles.
 - Encourage workforce reskilling in AI, data, and cloud fields to reduce layoff vulnerability.
