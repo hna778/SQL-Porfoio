@@ -17,7 +17,7 @@ While the pace of layoffs has begun to ease, the effects remain widespread acros
 - Tech layoffs reached a peak in 2023 with 178.000 employees.
 - Tech layoffs started in 2020, after the Covid-19 pandemic announced but declined rapidly by 80% in 2021 with 9,000 laid off employees reported.
 - From Sep 2022 to Mar 2023, this was the most period of layoffs wave after the post pandemic, due to restructure of system and balance of economy. 
-<img width="838" height="286" alt="Screenshot 2025-10-26 at 8 42 13 PM" src="https://github.com/user-attachments/assets/3b9d77e8-8ac7-48a2-aafb-651adcf33ef9" />
+<img width="875" height="296" alt="Screenshot 2025-10-26 at 8 54 15 PM" src="https://github.com/user-attachments/assets/0f50a2c8-cc0c-4939-8608-42b98a4effb5" />
 
 
 
