@@ -12,6 +12,7 @@ While the pace of layoffs has begun to ease, the effects remain widespread acros
 
 
 ### Insights Deep-Dives
+![Screenshot of Tableau Dashboard](https://public.tableau.com/views/Book2_17615238901260/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 #### 10 Countries Having Highest Layoffs
 
