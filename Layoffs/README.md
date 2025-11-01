@@ -17,7 +17,6 @@ While the pace of layoffs has begun to ease, the effects remain widespread acros
 - Layoffs began in 2020 during the COVID-19 outbreak, but dropped sharply by 80% in 2021 as companies ramped up hiring to support the surge in remote work, digital services, and online commerce.
 - A second major wave occurred between Sep 2022 – Mar 2023, driven by post-pandemic restructuring and economic adjustments.
 - After 2023, layoff volumes declined steadily through 2024–2025, signaling a period of market correction and operational balance.
-<img width="875" height="296" alt="Screenshot 2025-10-26 at 8 54 15 PM" src="https://github.com/user-attachments/assets/0f50a2c8-cc0c-4939-8608-42b98a4effb5" />
 
 #### Impacted Industries and Companies
 - When the Covid-19 announced in 2020, layoffs surged in Transportation and Retail sectors as lockdowns and social distancing halted mobility and in-person commerce.
