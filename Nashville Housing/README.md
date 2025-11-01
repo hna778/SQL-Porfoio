@@ -2,7 +2,7 @@
 
 ### Project Background
 
-This report presents comprehensive analysis of real estate transactions across Tennessee, with a particular focus on the dynamic housing market of Nashville. The primary goal of this analysis is to understand the distribution of property prices and uncover the market trends that reflect inventory levels, pricing dynamics, and the impact of property charateristics. The insights derived from this analysis aim to support strategic decision-making of home buyers by highlighting emerging opportunities, potential risks, and factors driving overall market performance.
+This report presents analysis of real estate transactions across Tennessee, with a particular focus on the dynamic housing market of Nashville. The primary goal of this analysis is to understand the distribution of property prices and uncover the market trends that reflect inventory levels, pricing dynamics, and the impact of property charateristics. The insights derived from this analysis aim to support strategic decision-making of home buyers by highlighting emerging opportunities, potential risks, and factors driving overall market performance.
 
 ### Executive Summary
 
