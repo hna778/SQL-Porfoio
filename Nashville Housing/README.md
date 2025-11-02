@@ -36,12 +36,8 @@ The SQL queries utilized to clean, perform quality checks, and prepare data can 
 
 Target SQL queries exploring key insights can be found here.
 
+Tableau Dashboard can be found [here](https://public.tableau.com/views/NashvilleHousing_17621076696500/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
 
-https://www.kaggle.com/code/lucyallan/sql-nashville-housing
-
-https://www.kaggle.com/code/pablozanotti/nashville-housing-data-cleaning-in-sql
-
-https://www.nashvillesmls.com/blog/nashville-housing-market-update.html
