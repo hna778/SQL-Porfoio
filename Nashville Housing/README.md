@@ -11,6 +11,7 @@ Over the four-year period (from 2013 to 2016), number of properties were sold as
 
 ### Insights Deep-Dive
 #### Sales Trends and Growth Rates
+<img width="1195" height="776" alt="Nashville Housing" src="https://github.com/user-attachments/assets/68d17967-e11f-4e9c-a655-1a99d8942ace" />
 
 #### Key Products Performances
 
