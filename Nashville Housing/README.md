@@ -10,8 +10,9 @@ The [dataset](https://www.kaggle.com/datasets/swsw1717/nashville-housing-sql-pro
 Over the four-year period (from 2013 to 2016), number of properties were sold as vacant rose by 10% in 2014 and 2015 compared to previous year, suggesting new area developments and supply-side activity. This may explain the reason home-selling activity began to decelerate in the later years of the dataset, indicating a potential shift toward market stabilization or early signs of saturation
 
 ### Insights Deep-Dive
-#### Sales Trends and Growth Rates
 <img width="1195" height="776" alt="Nashville Housing" src="https://github.com/user-attachments/assets/68d17967-e11f-4e9c-a655-1a99d8942ace" />
+#### Sales Trends and Growth Rates
+
 
 #### Key Products Performances
 
